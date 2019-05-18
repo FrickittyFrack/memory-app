@@ -1,0 +1,16 @@
+.tile {
+    width: 200px;
+    height: 200px;
+}
+  
+.hide-tile {
+    visibility: hidden;
+}
+
+.react-tile-front {
+    position: unset !important;
+}
+
+.shell-img {
+    max-width: 100%;
+}

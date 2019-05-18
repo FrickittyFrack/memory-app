@@ -1,0 +1,30 @@
+body {
+    font-size: 24px;
+}
+
+.navbar li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+.label {
+    width: 15%;
+}
+
+.center {
+    width: 70%;
+}
+
+.score {
+    width: 15%;
+}
+
+.navbar {
+    background: #490549;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+li {
+    color: white;
+    padding: 15px 0;
+}
